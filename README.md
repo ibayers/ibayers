@@ -1,16 +1,12 @@
 ## Hi there 👋
-
-<!--
-**ibayers/ibayers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Who am I?
+I'm a learner exploring the world of programming and artificial intelligence. I enjoy building small projects, experimenting with new technologies, and continuously improving my skills.
+🛠️ What am I currently working on?
+I'm focusing on learning web development, backend fundamentals, and getting deeper into AI & machine learning through hands-on practice and personal projects.
+🔧 What tools do I use?
+JavaScript / TypeScript
+Python
+HTML / CSS
+Git & GitHub
+Databases (SQL & NoSQL)
+Basic ML/AI frameworks
