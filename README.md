@@ -9,13 +9,8 @@ I'm focusing on learning web development, backend fundamentals, and getting deep
 🔧 What tools do I use?
 
 JavaScript / TypeScript
-
 Python
-
 Tailwind
-
 Git & GitHub
-
 Databases (SQL & NoSQL)
-
 Basic ML/AI frameworks
